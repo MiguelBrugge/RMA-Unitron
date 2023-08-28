@@ -1,0 +1,13 @@
+# Exclude settings.py
+/rma_unitron/settings.py
+
+# Exclude other generated files
+*.pyc
+*.pyo
+__pycache__/
+
+# Exclude environment-related files
+/.env
+/.venv
+/venv/
+/env/
